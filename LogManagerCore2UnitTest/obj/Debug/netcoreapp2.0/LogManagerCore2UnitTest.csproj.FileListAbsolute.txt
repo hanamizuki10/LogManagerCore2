@@ -1,0 +1,17 @@
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\LogManagerCore2UnitTest.deps.json
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\LogManagerCore2UnitTest.runtimeconfig.json
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\LogManagerCore2UnitTest.runtimeconfig.dev.json
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\LogManagerCore2UnitTest.dll
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\LogManagerCore2UnitTest.pdb
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\LogManagerCore2.dll
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\bin\Debug\netcoreapp2.0\LogManagerCore2.pdb
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\obj\Debug\netcoreapp2.0\LogManagerCore2UnitTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\obj\Debug\netcoreapp2.0\LogManagerCore2UnitTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\obj\Debug\netcoreapp2.0\LogManagerCore2UnitTest.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\obj\Debug\netcoreapp2.0\LogManagerCore2UnitTest.AssemblyInfo.cs
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\obj\Debug\netcoreapp2.0\LogManagerCore2UnitTest.csproj.CopyComplete
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\obj\Debug\netcoreapp2.0\LogManagerCore2UnitTest.dll
+D:\Visual Studio 2017\source\repos\LogManagerCore2.0\LogManagerCore2UnitTest\obj\Debug\netcoreapp2.0\LogManagerCore2UnitTest.pdb

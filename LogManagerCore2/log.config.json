@@ -1,0 +1,11 @@
+{
+  "LogLevel": "DEBUG",
+  "MaxSizeLimitMB": "1",
+  "LogRotateLimitIndex": "10",
+  "Encoding": "shift_jis",
+  "LogDirPath": "D:\\temp\\C#\\log",
+  "LogFileName": "_debug",
+  "LogFileNameExtension": ".log",
+  "LogFileNamePrefixDateTimeString": "yyyyMMdd",
+  "LogFileNameSuffixDateTimeString": ""
+}

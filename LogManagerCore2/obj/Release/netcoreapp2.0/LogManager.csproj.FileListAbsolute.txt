@@ -1,0 +1,8 @@
+D:\Visual Studio 2017\source\repos\LogManagerNet\LogManager\bin\Release\netcoreapp2.0\LogManager.deps.json
+D:\Visual Studio 2017\source\repos\LogManagerNet\LogManager\bin\Release\netcoreapp2.0\LogManager.dll
+D:\Visual Studio 2017\source\repos\LogManagerNet\LogManager\bin\Release\netcoreapp2.0\LogManager.pdb
+D:\Visual Studio 2017\source\repos\LogManagerNet\LogManager\obj\Release\netcoreapp2.0\LogManager.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\source\repos\LogManagerNet\LogManager\obj\Release\netcoreapp2.0\LogManager.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\source\repos\LogManagerNet\LogManager\obj\Release\netcoreapp2.0\LogManager.AssemblyInfo.cs
+D:\Visual Studio 2017\source\repos\LogManagerNet\LogManager\obj\Release\netcoreapp2.0\LogManager.dll
+D:\Visual Studio 2017\source\repos\LogManagerNet\LogManager\obj\Release\netcoreapp2.0\LogManager.pdb

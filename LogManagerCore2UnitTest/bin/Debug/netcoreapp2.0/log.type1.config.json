@@ -1,0 +1,11 @@
+{
+  "LogLevel": "WARN",
+  "MaxSizeLimitMB": "0.5",
+  "LogRotateLimitIndex": "-1",
+  "Encoding": "utf-8",
+  "LogDirPath": "D:\\temp\\C#\\log",
+  "LogFileName": "type1_warn_",
+  "LogFileNameExtension": ".log",
+  "LogFileNamePrefixDateTimeString": "",
+  "LogFileNameSuffixDateTimeString": "yyyyMMdd_HH"
+}
