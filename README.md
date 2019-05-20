@@ -9,8 +9,8 @@ LogManagerNetのCore版。.NET Framework系からCore系へ移行する方法を
 - .NET Core 2.0
 
 # Setup
-当プロジェクトをビルドして生成されるLogManagerNet.dllを開発で利用したい.NET環境に格納してください。<br>
-ログ出力が必要なクラス上で`using LogManagerNet;`と記載してください。<br>
+当プロジェクトをビルドして生成されるLogManagerCore2.dllを開発で利用したい.NET環境に格納してください。<br>
+ログ出力が必要なクラス上で`using LogManagerCore2;`と記載してください。<br>
 log.config.jsonファイルをプロジェクトに追加してください。<br>
 log.config.jsonの内容をお使いの環境に合わせて変更してください。<br>
 
