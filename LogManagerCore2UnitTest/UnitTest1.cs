@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using LogManagerCore2;
 using System.Threading.Tasks;
+using LogManagerCore2;
 
 namespace LogManagerCore2UnitTest
 {
@@ -24,6 +24,15 @@ namespace LogManagerCore2UnitTest
             logger2.Warn("テスト");
             logger2.Error("テスト");
             logger2.Fatal("テスト");
+
+
+
+            LogManager logger3 = LogManager.GetInstance("type2");
+            logger3.Debug("テスト");
+            logger3.Info("テスト");
+            logger3.Warn("テスト");
+            logger3.Error("テスト");
+            logger3.Fatal("テスト");
 
         }
         [TestMethod]

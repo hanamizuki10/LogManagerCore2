@@ -1,0 +1,15 @@
+2019/05/20 20:58:39.210,36320,3,35737600,INFO,LogManager.cs,.ctor,85,[Config]ConfigFile=log.config.json
+2019/05/20 20:58:39.217,36320,3,36802560,INFO,LogManager.cs,.ctor,86,[Config]LogLevel=DEBUG
+2019/05/20 20:58:39.222,36320,3,37871616,INFO,LogManager.cs,.ctor,87,[Config]MaxSizeLimitMB=1048576( 1 * 1024 * 1024 )
+2019/05/20 20:58:39.227,36320,3,38096896,INFO,LogManager.cs,.ctor,88,[Config]LogRotateLimitIndex=10
+2019/05/20 20:58:39.231,36320,3,38096896,INFO,LogManager.cs,.ctor,89,[Config]Encoding=System.Text.DBCSCodePageEncoding
+2019/05/20 20:58:39.234,36320,3,38096896,INFO,LogManager.cs,.ctor,90,[Config]LogDirPath=D:\temp\C#\logs
+2019/05/20 20:58:39.240,36320,3,38588416,INFO,LogManager.cs,.ctor,91,[Config]LogFileName=_debug
+2019/05/20 20:58:39.244,36320,3,39620608,INFO,LogManager.cs,.ctor,92,[Config]LogFileNameExtension=.log
+2019/05/20 20:58:39.250,36320,3,40656896,INFO,LogManager.cs,.ctor,93,[Config]LogFileNamePrefixDateTimeString=yyyyMMdd
+2019/05/20 20:58:39.256,36320,3,39841792,INFO,LogManager.cs,.ctor,94,[Config]LogFileNameSuffixDateTimeString=
+2019/05/20 20:58:39.261,36320,3,39972864,DEBUG,UnitTest1.cs,TestMethod1byCore,15,テスト
+2019/05/20 20:58:39.279,36320,3,40218624,INFO,UnitTest1.cs,TestMethod1byCore,16,テスト
+2019/05/20 20:58:39.284,36320,3,42733568,WARN,UnitTest1.cs,TestMethod1byCore,17,テスト
+2019/05/20 20:58:39.296,36320,3,46948352,ERROR,UnitTest1.cs,TestMethod1byCore,18,テスト
+2019/05/20 20:58:39.301,36320,3,50356224,FATAL,UnitTest1.cs,TestMethod1byCore,19,テスト

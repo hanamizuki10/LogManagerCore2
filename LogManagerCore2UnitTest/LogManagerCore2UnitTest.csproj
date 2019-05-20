@@ -16,4 +16,8 @@
     <ProjectReference Include="..\LogManagerCore2\LogManagerCore2.csproj" />
   </ItemGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy /Y /V &quot;$(ProjectDir)log.config.json&quot; &quot;$(TargetDir)log.config.json&quot;&#xD;&#xA;copy /Y /V &quot;$(ProjectDir)log.type1.config.json&quot; &quot;$(TargetDir)log.type1.config.json&quot;&#xD;&#xA;copy /Y /V &quot;$(ProjectDir)log.type2.config.json&quot; &quot;$(TargetDir)log.type2.config.json&quot;&#xD;&#xA;" />
+  </Target>
+
 </Project>
